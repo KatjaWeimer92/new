@@ -1,0 +1,3 @@
+- `git push -u origin название_ветки` (`main`, `master` и т.д.)
+    - `git push -u origin main` (пример)
+    - `git push` (если ветку уже выгружал)
